@@ -1,1 +1,2 @@
 mangum
+fastapi[all]
