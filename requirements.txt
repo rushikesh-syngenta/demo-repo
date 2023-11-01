@@ -5,3 +5,4 @@ numpy
 requests
 django
 kafka-python
+flask
